@@ -18,5 +18,3 @@ def print_banner():
                                     http://github.com/zagnox{Style.RESET_ALL}
 """    
     print(banner)
-
-print_banner()

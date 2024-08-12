@@ -1,5 +1,7 @@
 ## Generate malicious .lnk
 
+![Logo](Evil-LNK.png)
+
 #### EVIL-LNK generates and uploads malicious .lnk files to SMB shares for lateral movement
 
 .lnk are not flagged as malicious by windows defender which make them a great way to phish users if you have wrtite access to a smb share and move laterally.
